@@ -1,6 +1,7 @@
 # Hi, my name is **Stepan**!
 
-### I'm a ***JavaScript developer***!
+### I'm a ***Frontend developer***!
+## Mostly using Angular, but have good knoledges and experience with React, Vue 3 and SAPUi5 :)
 
 ## Languges and skills:
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
